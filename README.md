@@ -5,3 +5,8 @@ We are going to implement a simple python to-do list in which we can add a task 
 A GUI is basically a medium to interact and present information to the users. One of the major advantages of using Tkinter is that it works well on any machine be it windows, linux, or macOS.
 Project Prerequisites
 To work on to do list in python, basic understanding of python programming language and Tkinter, especially Tkinter widgets would be helpful. But don’t worry as this article will provide an explanation of every line of code as we go about building this python project. You are free to choose any IDE of your choice (Pycharm, VSCode, etc.).
+Steps to develop To-do List Project
+Import the Tkinter library
+Create to-do list application window
+Create application layout
+Define to do list functions
