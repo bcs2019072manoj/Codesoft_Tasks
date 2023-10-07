@@ -1,3 +1,12 @@
+'''                            CODSOFT INTERENSHIP
+                               
+                               
+Coder: Manoj kumar
+Date: 15/09/2023 to 22/09/2023
+Task: 03
+Project given by: Codsoft
+Interenship
+'''
 import string
 import random
  
